@@ -1,6 +1,6 @@
  Hi, I’m @Ge0frey
 -  I’m interested in distributed systems, open source and Web3
--  I’m currently learning C and Rust
+-  I’m currently learning intermediate C and advanced Rust
 -  I’m looking to collaborate on real world projects to enhance my skills
 -  How to reach me ge0freydev@gmail.com
 
